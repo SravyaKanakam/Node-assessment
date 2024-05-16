@@ -6,7 +6,7 @@
   "scripts": {
       "start": "node index.js",
       "test": "jasmine app-test.js",
-      "build":"react-scripts build"
+      "build":""
   },
   "keywords": [],
   "author": "",
